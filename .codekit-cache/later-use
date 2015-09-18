@@ -1,0 +1,73 @@
+
+<section class="features section-padding" id="#assets">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5 col-md-offset-7">
+                    <div class="feature-list">
+                        <h3>Sedna will drive your product forward</h3>
+                        <p>Present your product, start up, or portfolio in a beautifully modern way. Turn your visitors in to clients.</p>
+                        <ul class="features-stack">
+                            <li class="feature-item">
+                                <div class="feature-icon">
+                                    <span data-icon="&#xe03e;" class="icon"></span>
+                                </div>
+                                <div class="feature-content">
+                                    <h5>Universal & Responsive</h5>
+                                    <p>Sedna is universal and will look smashing on any device.</p>
+                                </div>
+                            </li>
+                            <li class="feature-item">
+                                <div class="feature-icon">
+                                    <span data-icon="&#xe040;" class="icon"></span>
+                                </div>
+                                <div class="feature-content">
+                                    <h5>User Centric Design</h5>
+                                    <p>Sedna takes advantage of common design patterns, allowing for a seamless experience for users of all levels.</p>
+                                </div>
+                            </li>
+                            <li class="feature-item">
+                                <div class="feature-icon">
+                                    <span data-icon="&#xe03c;" class="icon"></span>
+                                </div>
+                                <div class="feature-content">
+                                    <h5>Clean reusable code</h5>
+                                    <p>Download and re-use the Sedna open source code for any other project you like.</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="device-showcase">
+            <div class="devices">
+                <div class="ipad-wrap wp1"></div>
+                <div class="iphone-wrap wp2"></div>
+            </div>
+        </div>
+        <div class="responsive-feature-img"><img src="img/devices.png" alt="responsive devices"></div>
+    </section>
+    <section class="features-extra section-padding" id="assets">
+        <div class="macbook-wrap wp3"></div>
+        <div class="responsive-feature-img"><img src="img/macbook-pro.png" alt="responsive devices"></div>
+    </section>
+    
+    <section class="blog-intro section-padding" id="blog">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3>Showcase your smashing product with Sedna</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-sm-12 col-xs-12 leftcol">
+                    <h5>EXCLUSIVE TO CODROPS</h5>
+                    <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+                <div class="col-md-6 col-sm-12 col-xs-12 rightcol">
+                    <h5>SPREADING PIXELS AROUND THE WORLD</h5>
+                    <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                </div>
+            </div>
+        </div>
+    </section>
