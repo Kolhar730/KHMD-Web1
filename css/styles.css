@@ -1,11 +1,303 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
 @import url(http://fonts.googleapis.com/css?family=Merriweather:400,300,400italic,300italic,700,700italic);
 @import url(http://fonts.googleapis.com/css?family=Nunito:400,300,700);
+/*div.loaderr{
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 200px;
+  height: 80px;
+}
+span.item-1 {
+
+  display: inline-block;
+  width: 10px;
+  height: 40px;
+  animation-name: scale;
+  -webkit-animation-name: scale;
+  -moz-animation-name: scale;
+  -ms-animation-name: scale;
+  -o-animation-name: scale;
+  animation-duration: 1.2s;
+  -webkit-animation-duration: 1.2s;
+  -moz-animation-duration: 1.2s;
+  -ms-animation-duration: 1.2s;
+  -o-animation-duration: 1.2s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  background: #2ecc71;
+}
+span.item-2 {
+
+  display: inline-block;
+  width: 10px;
+  height: 40px;
+  animation-name: scale;
+  -webkit-animation-name: scale;
+  -moz-animation-name: scale;
+  -ms-animation-name: scale;
+  -o-animation-name: scale;
+  animation-duration: 1.2s;
+  -webkit-animation-duration: 1.2s;
+  -moz-animation-duration: 1.2s;
+  -ms-animation-duration: 1.2s;
+  -o-animation-duration: 1.2s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  background: #3498db;
+}
+span.item-3 {
+
+  display: inline-block;
+  width: 10px;
+  height: 40px;
+  animation-name: scale;
+  -webkit-animation-name: scale;
+  -moz-animation-name: scale;
+  -ms-animation-name: scale;
+  -o-animation-name: scale;
+  animation-duration: 1.2s;
+  -webkit-animation-duration: 1.2s;
+  -moz-animation-duration: 1.2s;
+  -ms-animation-duration: 1.2s;
+  -o-animation-duration: 1.2s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  background: #9b59b6;
+}
+span.item-4 {
+
+  display: inline-block;
+  width: 10px;
+  height: 40px;
+  animation-name: scale;
+  -webkit-animation-name: scale;
+  -moz-animation-name: scale;
+  -ms-animation-name: scale;
+  -o-animation-name: scale;
+  animation-duration: 1.2s;
+  -webkit-animation-duration: 1.2s;
+  -moz-animation-duration: 1.2s;
+  -ms-animation-duration: 1.2s;
+  -o-animation-duration: 1.2s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  background: #e67e22;
+}
+span.item-5 {
+
+  display: inline-block;
+  width: 10px;
+  height: 40px;
+  animation-name: scale;
+  -webkit-animation-name: scale;
+  -moz-animation-name: scale;
+  -ms-animation-name: scale;
+  -o-animation-name: scale;
+  animation-duration: 1.2s;
+  -webkit-animation-duration: 1.2s;
+  -moz-animation-duration: 1.2s;
+  -ms-animation-duration: 1.2s;
+  -o-animation-duration: 1.2s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  background: #c0392b;
+}
+span.item-6 {
+
+  display: inline-block;
+  width: 10px;
+  height: 40px;
+  animation-name: scale;
+  -webkit-animation-name: scale;
+  -moz-animation-name: scale;
+  -ms-animation-name: scale;
+  -o-animation-name: scale;
+  animation-duration: 1.2s;
+  -webkit-animation-duration: 1.2s;
+  -moz-animation-duration: 1.2s;
+  -ms-animation-duration: 1.2s;
+  -o-animation-duration: 1.2s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  background: #e74c3c;
+}
+span.item-7 {
+
+  display: inline-block;
+  width: 10px;
+  height: 40px;
+  animation-name: scale;
+  -webkit-animation-name: scale;
+  -moz-animation-name: scale;
+  -ms-animation-name: scale;
+  -o-animation-name: scale;
+  animation-duration: 1.2s;
+  -webkit-animation-duration: 1.2s;
+  -moz-animation-duration: 1.2s;
+  -ms-animation-duration: 1.2s;
+  -o-animation-duration: 1.2s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -ms-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  background: #e74c8c;
+}
+
+.item-1 {
+  animation-delay: -1s;
+  -webkit-animation-delay: -1s;
+  -moz-animation-delay: -1s;
+  -ms-animation-delay: -1s;
+  -o-animation-delay: -1s;
+}
+
+.item-2 {
+  animation-delay: -0.9s;
+  -webkit-animation-delay: -0.9s;
+  -moz-animation-delay: -0.9s;
+  -ms-animation-delay: -0.9s;
+  -o-animation-delay: -0.9s;
+}
+
+.item-3 {
+  animation-delay: -0.8s;
+  -webkit-animation-delay: -0.8s;
+  -moz-animation-delay: -0.8s;
+  -ms-animation-delay: -0.8s;
+  -o-animation-delay: -0.8s;
+}
+
+.item-4 {
+  animation-delay: -0.7s;
+  -webkit-animation-delay: -0.7s;
+  -moz-animation-delay: -0.7s;
+  -ms-animation-delay: -0.7s;
+  -o-animation-delay: -0.7s;
+}
+
+.item-5 {
+  animation-delay: -0.6s;
+  -webkit-animation-delay: -0.6s;
+  -moz-animation-delay: -0.6s;
+  -ms-animation-delay: -0.6s;
+  -o-animation-delay: -0.6s;
+}
+
+.item-6 {
+  animation-delay: -0.5s;
+  -webkit-animation-delay: -0.5s;
+  -moz-animation-delay: -0.5s;
+  -ms-animation-delay: -0.5s;
+  -o-animation-delay: -0.5s;
+}
+
+.item-7 {
+  animation-delay: -0.4s;
+  -webkit-animation-delay: -0.4s;
+  -moz-animation-delay: -0.4s;
+  -ms-animation-delay: -0.4s;
+  -o-animation-delay: -0.4s;
+}
+
+@-webkit-keyframes scale {
+  0%, 40%, 100% {
+    -webkit-transform: scaleY(0.2);
+    -moz-transform: scaleY(0.2);
+    -ms-transform: scaleY(0.2);
+    -o-transform: scaleY(0.2);
+    transform: scaleY(0.2);
+  }
+
+  20%, 60% {
+    -webkit-transform: scaleY(1);
+    -moz-transform: scaleY(1);
+    -ms-transform: scaleY(1);
+    -o-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+}
+
+@-moz-keyframes scale {
+  0%, 40%, 100% {
+    -webkit-transform: scaleY(0.2);
+    -moz-transform: scaleY(0.2);
+    -ms-transform: scaleY(0.2);
+    -o-transform: scaleY(0.2);
+    transform: scaleY(0.2);
+  }
+
+  20%, 60% {
+    -webkit-transform: scaleY(1);
+    -moz-transform: scaleY(1);
+    -ms-transform: scaleY(1);
+    -o-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+}
+
+@-ms-keyframes scale {
+  0%, 40%, 100% {
+    -webkit-transform: scaleY(0.2);
+    -moz-transform: scaleY(0.2);
+    -ms-transform: scaleY(0.2);
+    -o-transform: scaleY(0.2);
+    transform: scaleY(0.2);
+  }
+
+  20%, 60% {
+    -webkit-transform: scaleY(1);
+    -moz-transform: scaleY(1);
+    -ms-transform: scaleY(1);
+    -o-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+}
+
+@keyframes scale {
+  0%, 40%, 100% {
+    -webkit-transform: scaleY(0.2);
+    -moz-transform: scaleY(0.2);
+    -ms-transform: scaleY(0.2);
+    -o-transform: scaleY(0.2);
+    transform: scaleY(0.2);
+  }
+
+  20%, 60% {
+    -webkit-transform: scaleY(1);
+    -moz-transform: scaleY(1);
+    -ms-transform: scaleY(1);
+    -o-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+}*/
 /* ==========================================================================
 Typography
 ========================================================================== */
 p {
-  font-size: 15px;
+  font-size: 17px;
   line-height: 29px;
   color: rgba(28, 54, 83, 0.6);
   padding-bottom: 20px; }
@@ -14,8 +306,8 @@ h1 {
   font-size: 60px; }
 
 h2 {
-  font-size: 40px;
-  font-weight: 300;
+  font-size: 22px;
+  font-weight: 400;
   color: #3D4351; }
 
 h3 {
@@ -31,7 +323,25 @@ h5 {
   color: #3D4351;
   text-transform: uppercase;
   font-weight: 500; }
-
+h6{
+  font-size: 17px;
+  line-height: 29px;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgba(28, 54, 83, 0.6);
+  padding-bottom: 20px;
+}
+h6:hover{
+  font-size: 40px;
+  padding-top: 10px;
+  font-weight: 500;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+  -webkit-transition-duration: 800ms;
+  transition-duration: 800ms;
+  -webkit-transition-property: color, border-color, background-color;
+  transition-property: color, border-color, background-color;
+}
 .btn {
   font-size: 13px;
   border: solid 2px;
@@ -1162,3 +1472,9 @@ you can use the generic selector below, but it's slower:
 
 .icon-dribbble:before {
   content: "\e063"; }
+
+
+
+
+
+

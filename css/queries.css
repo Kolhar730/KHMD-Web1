@@ -289,25 +289,6 @@
 			transform: translateX(-50%);
 		}
 
-		.features .ipad-wrap {
-			width: 706px;
-			height: 1002px;
-			background: url("../img/ipad-device.png") no-repeat center center;
-			z-index: 1;
-			background-size: 40%;
-		}
-
-		.features .iphone-wrap {
-			width: 304px;
-			height: 617px;
-			background: url("../img/iphone6.png") no-repeat center center;
-			position: absolute;
-			left: 350px;
-			bottom: 129px;
-			z-index: 2;
-			background-size: 40%;
-		}
-
 		.features {
 			padding-bottom: 0;
 		}
