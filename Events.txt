@@ -1,0 +1,54 @@
+It's time for the Event Schedule.
+What you see below is 99% confirmed but still not an exhaustive list. We still have to get this approved by teachers though. We're still looking for a few more things. More on this later. 
+
+We're looking to start by 8:30 and end by 12:30. Maybe 1pm even. Will get that confirmed soon.
+
+1) Interface 2015 will hopefully* start with an opening ceremony in the Auditorium. 30 mins tops. Content for that is being finalized. Right after that there will be the iQuiz (hosted by +Abhishek Krishna and +Barghav Cavale - hopefully they're free on Nov 21.) Format still not decided for that. It'll have to a short one this year because right after that we're having two 30 min talks on 1. The Makers Movement and 2. Women Techmakers by the founder of Bangalore Makerspace and Open Source Creativity (aka. BMOSC). 
+
+After the Opening ceremony, other events will start in various venues.
+
+2) The Arduino Electronics workshop will be in the High School Block AV Room. The Math lab right next to it will host the IoT Lab. Both these will be managed by +Adhesh Shenoy +Vishwa Pravin and a few more juniors. 9:45 - 11:45 am.
+
+3) In the Senior Secondary AV Room, we're having a Design Thinking Workshop. The speaker will be a professional who's actually an ex-Googler working in the Bay Area who's now returned to Bangalore to work on his own startup. 9:45 - 11:45 am.
+
+4) In the Dell lab, We're having a Web Development Workshop hosted by +Sameer Kolhar and +Rishit Chaudhary. Again 9:45 - 11:45 am. 
+
+5) We're planning to have a project display (suggest name) for projects that don't have anything to do with the curriculum. You can make anything, just make sure it is something that has some element of programming and electronics in it. This could be made a contest too. Based on the number of entries we get, we'll decide whether we're having it or not. I think +Aditya Venkatraman will be handling this. 9:30 - 12.
+
+For all the above, we're planning to make registrations compulsory. +Aniruddha Mysore is working on the website for this.
+
+6) Somewhere in the junior block, +bhargav kulkarni will be hosting a display of "Logic gates with Dominos". Target audience will probably be 4-7 grade kids. Though it is open for everyone. We could even have this at two venues if we can arrange for enough dominos.
+
+7) Also for the junior block, we're tweaking the traditional logic based table top games and making them a contest. +Akshaya Mohan and +Akash Nagaraj are handling that.
+
+8) One more event is in the pipeline for Junior Block. Details should be finalized tomorrow. Handled by +Anurag Muttur. Will update this later.
+
+Coming to flash talks, two have been confirmed. Both in Dell lab.
+9) Hacking Flash talk : +Kushal Naidu and +Harish Gumnur.
+10) Simulation for Physics : +shreyas Sudhaman  
+
+11) An extremely important event for us this year, Hour Of Code will be done in the Senior Secondary Computer Lab. +Arjun Rao is handling this.
+
+12) ThetaNFactorial will return but will be organised the previous day itself. We still don't know who's organising this. Needs to be some Alumni. +Jay Bosamiya please suggest someone. (Other than Arjun as he's already busy.)
+
+13) Last but not the least, we'll end the day with the drone display.+Aabharan Hemanth  
+
+On the previous day, we'll probably have a KHMD only event after lunch. Something along the lines of what we had earlier this year. (The Informal Meet which most of you did not attend)
+
+BMOSC will also be setting up a stall for people to buy electronic components from. So if you'd like to buy something from them that you haven't found yet, comment below. I'll try and get it accross to them.
+
+As we'll be advertising heavily in the coming months, we expext a sizable crowd. Across 4-12, I personally expect it to be around 1500 people including students and parents. Keeping them occupied for 4 hours is not a joke. So we're still looking for events that can attract a lot of people. Some contest would be nice.
+
+Lots of volunteers required but if you're in 8th or below, I seriously suggest that you attend events or particpate in our project display. 
+
+*"hopefully" because we still have to figure out how to stuff so many people into the auditorium. But I'm sure we'll find a work around to solve that problem.
+
+Interface teaser video coming VERY SOON.
+
+For further questions, comment below. 
+
+edit 1: Forgot to mention, we're filming EVERY event this time. So you can go home and watch all the events :)
+
+edit 2: This is not the entire list of participants. This is just a list of who's in-charge of which event. We definitely need more of you participating and helping out for different things.
+
+edit 3: The normal student displays (15min slots) will remain. But I'm not sure what the teachers have planned for those.﻿
