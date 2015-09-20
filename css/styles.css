@@ -677,12 +677,13 @@ Features-stack
       height: auto; }
   .testimonial-slider h2 {
     color: #fff;
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 300;
     font-style: italic;
     margin: 30px 0; }
   .testimonial-slider p {
-    color: #ACB1B4;
+    color: #000;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 2px; }
 

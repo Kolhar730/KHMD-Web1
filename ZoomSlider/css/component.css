@@ -23,7 +23,7 @@ body {
 	z-index: 200;
 	width: 100%;
 	margin: 0 auto;
-	padding: 0 0 7em;
+	padding: 0 0 5em;
 	text-align: center;
 	-webkit-user-select: none;
 	-moz-user-select: none;
@@ -54,19 +54,20 @@ body {
 }
 
 .slide__title {
-	font-size: 1.75em;
-	font-weight: normal;
+	font-size: 1.85em;
+	font-weight: 500;
+	color: WHITE;
 	margin: 0 auto;
-	padding: 1em 0 0 0;
+	padding-top: 1em;
+	padding-bottom: 0.5em;
 }
 
 .slide__title span {
-	font-size: 55%;
+	font-size: 75%;
 	font-weight: bold;
 	display: block;
 	letter-spacing: 2px;
 	text-transform: uppercase;
-	color: #35303d;
 }
 
 .slider__nav {
@@ -77,16 +78,16 @@ body {
 }
 
 .button {
-	font-size: 1.31em;
-	position: relative;
-	display: inline-block;
-	overflow: hidden;
-	margin: 0 25px;
-	padding: 0;
-	cursor: pointer;
-	color: #5c5edc;
-	border: none;
-	background: none;
+    font-size: 1.78em;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    margin: 0 25px;
+    padding: 0;
+    cursor: pointer;
+    color: #6DBF8E;
+    border: none;
+    background: none;
 }
 
 .button:focus {
